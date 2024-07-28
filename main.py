@@ -1,7 +1,7 @@
 # Initialize data set
 AllowedVehicleList = [
     'Ford F-150', 'Chevolet Silverado', 'Tesla CyberTruck', 'Toyota Tundra',
-    'Nissan Titan'
+    'Nissan Titan', 'Rivian R1T', 'Ram 1500'
 ]
 #print menu
 def print_menu():
